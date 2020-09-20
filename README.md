@@ -7,8 +7,7 @@ x86 and x64 ELF, it uses [ropper](https://github.com/sashs/Ropper) to get all th
 Install
 -------
 
-you must install ropper to run this script, check the link below to install ropper
-[ropper](https://github.com/sashs/Ropper)
+you must install ropper to run this script, [ropper](https://github.com/sashs/Ropper)
 
 
 Usage
